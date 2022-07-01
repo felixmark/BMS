@@ -7,8 +7,8 @@ Color highlighting works in Linux Shells only.
 
 ## Screenshots
 
-![](/home/felix/felix/BMS/Menu.png)
+![](Menu.png)
 
-![](/home/felix/felix/BMS/Unsolved.png)
+![](Unsolved.png)
 
-![](/home/felix/felix/BMS/Solved.png)
+![](Solved.png)
